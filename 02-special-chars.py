@@ -1,0 +1,1 @@
+print("Alert! \a\a\a")
