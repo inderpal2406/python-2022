@@ -1,4 +1,5 @@
 # This script will display current date and time.
+# In this script we use the time module, but datetime module can also be used.
 
 # Import modules.
 
