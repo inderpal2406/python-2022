@@ -1,6 +1,6 @@
 # This script will accept a number from the user.
 # Then the script would check if the number is odd or even and then display the result.
-# In addition, the script would also detect if the user entered a float number and would as the user to enter only an integer in such a case.
+# In addition, the script would also detect if the user entered a float number and would tell the user to enter only an integer in such a case.
 # The script would fail if the user provides a string as an input. This could be enhanced later.
 
 # Import modules.
