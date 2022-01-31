@@ -1,5 +1,7 @@
 # This script will accept a filename from the user and print the extension of that.
 # If the script doesn't find a period in filename, then it'll display result accordingly.
+# "not in" or "in" membership operator can be used with strings as well along with list, tuples.
+# Need to check which additional other places can it be used.
 
 # Import modules.
 
