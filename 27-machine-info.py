@@ -4,6 +4,7 @@
 
 import clear_screen_module
 import platform
+import getpass
 
 # Clear the screen.
 
@@ -19,4 +20,5 @@ print(f"Machine hostname: {platform.node()}")
 print(f"Operating system: {platform.system()}")
 print(f"Operating system version: {platform.platform()}")
 print(f"Processor information: {platform.processor()}")
-print(f"Processor architecture: {platform.architecture()[0]}\n")
+print(f"Processor architecture: {platform.architecture()[0]}")
+print(f"Current user: {getpass.getuser()}\n")
