@@ -12,3 +12,6 @@ fo.writelines(content_list)
 fo.close()
 
 print(f"The lines from the list are added to the file txt-files\\file4.txt.")
+
+# It is not a good practice to mention \n in each of the list members. 
+# We'll see to enhance this in next script by adding \n automatically.
