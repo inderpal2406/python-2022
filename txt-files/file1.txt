@@ -1,1 +1,4 @@
-This is the first line.
+First line from list without \n.
+Second line from list without \n.
+This line is appended.
+One more line is appended.
